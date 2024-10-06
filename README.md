@@ -20,8 +20,8 @@
 - Open source projects in **Web Development** and **Python**
 
 ## 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikul)
-- [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikul-panchal-79b74b26b/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:nikulpanchal2505@gmail.com)
 
 ## 😄 Pronouns
 - He/Him
