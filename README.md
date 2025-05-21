@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nikul
 
 ## 👀 About Me
-- 🎓 I’m currently doing **BCA**
+- 🎓 I’m  **BCA** Graduate 
 - 🌐 I'm a **MERN stack developer**
 - 🖥️ Interested in **Web Development** and **Python**
 
